@@ -1,5 +1,4 @@
 Rails.application.routes.draw do
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
-  match 'pages' => 'pages#index', via: :get
+  match 'index' => 'movie_finder_app#index', via: :get
 end
-

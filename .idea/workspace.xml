@@ -9,110 +9,74 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="webpacker.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/open-movie-finder/config/webpacker.yml">
+      <file leaf-file-name="AppStore.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/open-movie-finder/app/client/js/stores/AppStore.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="90">
+              <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#56#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/open-movie-finder/app/views/layouts/application.html.erb">
+      <file leaf-file-name="AppActions.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/open-movie-finder/app/client/js/actions/AppActions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="93" lean-forward="false" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="93" />
-              <folding />
+            <state relative-caret-position="270">
+              <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#56#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/open-movie-finder/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="53" lean-forward="false" selection-start-line="42" selection-start-column="53" selection-end-line="42" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/open-movie-finder/app/views/pages/index.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pages_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/open-movie-finder/app/controllers/pages_controller.rb">
+      <file leaf-file-name="SearchForm.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/open-movie-finder/app/client/js/components/SearchForm.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="development.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/open-movie-finder/config/environments/development.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="routes.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/open-movie-finder/config/routes.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="43" lean-forward="false" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hello_react.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/open-movie-finder/app/javascript/packs/hello_react.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="24" column="3" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="24" selection-end-column="3" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#0#26#0" expanded="true" />
+                <marker date="1531894209420" expanded="true" signature="527:970" ph="..." />
+                <marker date="1531894209420" expanded="true" signature="643:951" ph="..." />
+                <marker date="1531894209420" expanded="true" signature="692:838" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/open-movie-finder/app/javascript/packs/application.js">
+      <file leaf-file-name="AppApi.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/open-movie-finder/app/client/js/utils/AppApi.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="360">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/open-movie-finder/app/assets/javascripts/application.js">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/open-movie-finder/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -129,37 +93,42 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>application.css</find>
+      <find>base</find>
+      <find>cerner</find>
+      <find>terra-responsive-breakpoints</find>
+      <find>break</find>
+      <find>class</find>
+      <find>config.webpacker.check_yarn_integrity</find>
       <find>terra</find>
-      <find>const</find>
-      <find>h</find>
-      <find>main-content-wrapper</find>
-      <find>main</find>
-      <find>application</find>
-      <find>layouts</find>
-      <find>active_resource/railtie</find>
-      <find>railtie</find>
-      <find>DependentEntryPointPlugin</find>
-      <find>ReactOnRails</find>
-      <find>gem 'react_on_rails', '7.0.4'</find>
-      <find>prerender</find>
-      <find>react_on_rails</find>
-      <find>react</find>
-      <find>haml</find>
-      <find>ion</find>
-      <find>orion</find>
-      <find>CommonsChunkPlugin</find>
-      <find>canadarm</find>
-      <find>basset</find>
-      <find>hi-</find>
-      <find>oauth</find>
-      <find>oauthpa</find>
-      <find>packs</find>
-      <find>webpack</find>
-      <find>turbolink</find>
-      <find>hello world</find>
-      <find>config.x.webpacker[:dev_server_host] = &quot;http://127.0.0.1:8080&quot;</find>
-      <find>entry</find>
+      <find>breakpoints</find>
+      <find>ref</find>
+      <find>top-nav</find>
+      <find>addmov</find>
+      <find>movies-container</find>
+      <find>pos</find>
+      <find>CaseSensitivePathsPlugin</find>
+      <find>SearchForm</find>
+      <find>assign</find>
+      <find>_movies</find>
+      <find>_selected</find>
+      <find>AppDispatcher</find>
+      <find>AppStore</find>
+      <find>getInitialState</find>
+      <find>get</find>
+      <find>this.ref</find>
+      <find>searchMovies</find>
+      <find>AppApi</find>
+      <find>RECEIVE_MOVIE_RESULTS</find>
+      <find>setMovieResults</find>
+      <find>actions/AppActions</find>
+      <find>appact</find>
     </findStrings>
+    <replaceStrings>
+      <replace>className</replace>
+      <replace>movies</replace>
+      <replace>selected</replace>
+    </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/open-movie-finder/app/views</dir>
     </dirStrings>
@@ -167,31 +136,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/open-movie-db/app/controllers/movie_controller.rb" />
-        <option value="$PROJECT_DIR$/open-movie-db/config/routes.rb" />
-        <option value="$PROJECT_DIR$/open-movie-db/package.json" />
-        <option value="$PROJECT_DIR$/open-movie-db/app/views/movie/index.html.erb" />
-        <option value="$PROJECT_DIR$/open-movie-db/app/controllers/application_controller.rb" />
-        <option value="$PROJECT_DIR$/open-movie-db/app/views/movie/index.html.haml" />
-        <option value="$PROJECT_DIR$/open-movie-db/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/open-movie-db/client/package.json" />
-        <option value="$PROJECT_DIR$/open-movie-db/Rakefile" />
-        <option value="$PROJECT_DIR$/open-movie-db/config/initializers/assets.rb" />
-        <option value="$PROJECT_DIR$/open-movie-db/config/application.rb" />
-        <option value="$PROJECT_DIR$/open-movie-db/app/assets/config/manifest.js" />
-        <option value="$PROJECT_DIR$/open-movie-db/client/js/MainApp.jsx" />
-        <option value="$PROJECT_DIR$/open-movie-db/client/js/app.jsx" />
-        <option value="$PROJECT_DIR$/open-movie-db/config.ru" />
         <option value="$PROJECT_DIR$/open-movie-db/client/webpack.config.client.js" />
         <option value="$PROJECT_DIR$/open-movie-db/Gemfile" />
-        <option value="$PROJECT_DIR$/open-movie-finder/package.json" />
-        <option value="$PROJECT_DIR$/open-movie-finder/config/initializers/assets.rb" />
         <option value="$PROJECT_DIR$/open-movie-finder/client/package.json" />
         <option value="$PROJECT_DIR$/open-movie-finder/client/webpack.config.client.js" />
         <option value="$PROJECT_DIR$/open-movie-finder/client/js/app/components/MessageCenterApp.jsx" />
         <option value="$PROJECT_DIR$/open-movie-finder/client/js/app.jsx" />
         <option value="$PROJECT_DIR$/open-movie-finder/app/views/movie/index.html.haml" />
-        <option value="$PROJECT_DIR$/open-movie-finder/Gemfile" />
         <option value="$PROJECT_DIR$/open-movie-finder/.ruby-version" />
         <option value="$PROJECT_DIR$/open-movie-finder/config/boot.rb" />
         <option value="$PROJECT_DIR$/open-movie-finder/config/application.rb" />
@@ -200,8 +151,42 @@
         <option value="$PROJECT_DIR$/open-movie-finder/app/assets/javascripts/application.js" />
         <option value="$PROJECT_DIR$/open-movie-finder/config/environments/development.rb" />
         <option value="$PROJECT_DIR$/open-movie-finder/app/views/pages/index.html.erb" />
-        <option value="$PROJECT_DIR$/open-movie-finder/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/controllers/movie_finder_app_controller.rb" />
         <option value="$PROJECT_DIR$/open-movie-finder/config/routes.rb" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/client/js/hello_react.jsx" />
+        <option value="$PROJECT_DIR$/open-movie-finder/Gemfile" />
+        <option value="$PROJECT_DIR$/open-movie-finder/config/webpacker.yml" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/controllers/application_controller.rb" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/views/movie_finder_app/index.html.haml" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/client/js/components/Header.jsx" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/assets/stylesheets/application.less" />
+        <option value="$PROJECT_DIR$/open-movie-finder/config/initializers/assets.rb" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/assets/stylesheets/application.css" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/client/js/components/ResponsiveElement.jsx" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/client/js/utils/ResponsiveElement.jsx" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/client/js/components/MovieListView.jsx" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/client/js/components/HeaderView.jsx" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/client/js/utils/Header.js" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/client/js/utils/Movie.js" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/client/js/utils/App.css" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/client/js/utils/movies.js" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/client/js/utils/App.js" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/client/js/components/MovieContainerView.jsx" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/client/webpack.config.client.js" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/client/js/utils/AppAPI.js" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/client/js/components/Movie.js" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/client/js/components/MovieResults.js" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/client/js/app.jsx" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/assets/stylesheets/app.less" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/assets/stylesheets/breakpoints.scss" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/client/js/components/App.js" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/client/js/dispatcher/AppDispatcher.js" />
+        <option value="$PROJECT_DIR$/open-movie-finder/package.json" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/client/js/stores/AppStore.js" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/client/js/components/SearchForm.js" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/client/js/actions/AppActions.js" />
+        <option value="$PROJECT_DIR$/open-movie-finder/app/client/js/utils/AppApi.js" />
       </list>
     </option>
   </component>
@@ -214,11 +199,10 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/open-movie-finder/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-140" />
-    <option name="y" value="-1057" />
-    <option name="width" value="1920" />
-    <option name="height" value="1057" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -235,7 +219,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -259,42 +243,99 @@
               <item name="web-dev-learning-projects" type="462c0819:PsiDirectoryNode" />
               <item name="open-movie-finder" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="web-dev-learning-projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="web-dev-learning-projects" type="462c0819:PsiDirectoryNode" />
               <item name="open-movie-finder" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="web-dev-learning-projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="web-dev-learning-projects" type="462c0819:PsiDirectoryNode" />
               <item name="open-movie-finder" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="web-dev-learning-projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="web-dev-learning-projects" type="462c0819:PsiDirectoryNode" />
               <item name="open-movie-finder" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="web-dev-learning-projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="web-dev-learning-projects" type="462c0819:PsiDirectoryNode" />
               <item name="open-movie-finder" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="environments" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="actions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-dev-learning-projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-dev-learning-projects" type="462c0819:PsiDirectoryNode" />
+              <item name="open-movie-finder" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-dev-learning-projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-dev-learning-projects" type="462c0819:PsiDirectoryNode" />
+              <item name="open-movie-finder" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="constants" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-dev-learning-projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-dev-learning-projects" type="462c0819:PsiDirectoryNode" />
+              <item name="open-movie-finder" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="dispatcher" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-dev-learning-projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-dev-learning-projects" type="462c0819:PsiDirectoryNode" />
+              <item name="open-movie-finder" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="stores" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-dev-learning-projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-dev-learning-projects" type="462c0819:PsiDirectoryNode" />
+              <item name="open-movie-finder" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-dev-learning-projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-dev-learning-projects" type="462c0819:PsiDirectoryNode" />
+              <item name="open-movie-finder" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="vendors" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -303,13 +344,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/open-movie-finder/config" />
-      <recent name="$PROJECT_DIR$/open-movie-finder/client" />
-      <recent name="$PROJECT_DIR$/open-movie-finder/bin" />
-      <recent name="$PROJECT_DIR$/open-movie-finder" />
-      <recent name="$PROJECT_DIR$/open-movie-finder/app/views" />
+      <recent name="$PROJECT_DIR$/open-movie-finder/app/client/js" />
+      <recent name="$PROJECT_DIR$/open-movie-finder/app/assets/stylesheets" />
+      <recent name="$PROJECT_DIR$/open-movie-finder/app/client" />
+      <recent name="$PROJECT_DIR$/open-movie-finder/config/initializers" />
+      <recent name="$PROJECT_DIR$/open-movie-finder/app/client/js/components" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/open-movie-finder/app/assets/images" />
+      <recent name="$PROJECT_DIR$/open-movie-finder/app/client/js/utils" />
+      <recent name="$PROJECT_DIR$/open-movie-finder/app/client/js" />
       <recent name="$PROJECT_DIR$/open-movie-db/app/models" />
     </key>
   </component>
@@ -340,28 +384,31 @@
       <workItem from="1531669863844" duration="2297000" />
       <workItem from="1531682662111" duration="3675000" />
       <workItem from="1531687026633" duration="2423000" />
-      <workItem from="1531692947809" duration="3165000" />
+      <workItem from="1531692947809" duration="6768000" />
+      <workItem from="1531750228627" duration="979000" />
+      <workItem from="1531840370563" duration="11485000" />
+      <workItem from="1531882824902" duration="7080000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24210000" />
+    <option name="totallyTimeSpent" value="47357000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-140" y="-1057" width="1920" height="1057" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22736955" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26984128" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -382,169 +429,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/open-movie-db/config/application.rb" />
-    <entry file="file://$PROJECT_DIR$/open-movie-db/config.ru" />
-    <entry file="file://$PROJECT_DIR$/movie-search/Gemfile" />
-    <entry file="file://$PROJECT_DIR$/open-movie-db/config/initializers/react_on_rails.rb" />
-    <entry file="file://$PROJECT_DIR$/open-movie-db/public/assets/webpack-manifest.json" />
-    <entry file="file://$PROJECT_DIR$/open-movie-db/client/js/app.jsx" />
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/.babelrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/config/webpack/environment.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/config/webpack/development.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/open-movie-db/app/controllers/application_controller.rb" />
-    <entry file="file://$PROJECT_DIR$/open-movie-db/package.json" />
-    <entry file="file://$PROJECT_DIR$/open-movie-db/config/initializers/assets.rb" />
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/client/app/js/main.js" />
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/client/build/app.bundle.js" />
-    <entry file="file://$PROJECT_DIR$/open-movie-db/config/initializers/webpack.rb" />
-    <entry file="file://$PROJECT_DIR$/open-movie-db/client/webpack.config.client.js" />
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/open-movie-db/config/routes.rb" />
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/controllers/movie_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/open-movie-db/Gemfile" />
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/config/initializers/assets.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/.postcssrc.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/assets/config/manifest.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/bin/webpack-dev-server" />
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/bin/bundle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/bin/rails">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/bin/rake">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/bin/rspec">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/client/.babelrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/client/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="73" lean-forward="false" selection-start-line="5" selection-start-column="73" selection-end-line="5" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/client/webpack.config.client.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="812">
-          <caret line="107" column="87" lean-forward="false" selection-start-line="107" selection-start-column="87" selection-end-line="107" selection-end-column="87" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/client/js/app.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/client/js/app/components/MessageCenterApp.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/views/movie/index.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/views/movie/index.html.haml" />
     <entry file="file://$PROJECT_DIR$/open-movie-finder/.ruby-version">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -552,91 +441,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/config/http.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/config/oauth.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/config/application.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/config/http.yml" />
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/config/oauth.yml" />
     <entry file="file://$PROJECT_DIR$/open-movie-finder/bin/yarn">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/javascript/packs/application.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/views/pages/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="53" lean-forward="false" selection-start-line="42" selection-start-column="53" selection-end-line="42" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="43" lean-forward="false" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/javascript/packs/hello_react.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="3" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="24" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -644,40 +457,314 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/client/js/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/config/environment.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/open-movie-finder/config/environments/development.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="150">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/controllers/pages_controller.rb">
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/config/application.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/controllers/movie_finder_app_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/config/initializers/assets.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="54" lean-forward="false" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/client/js/utils/breakpoints.scss" />
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/client/js/utils/ResponsiveElement.jsx" />
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/views/movie_finder_app/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/open-movie-finder/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="93" lean-forward="false" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="93" />
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/client/js/utils/App.css" />
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/client/js/utils/Movie.js" />
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/client/js/utils/movies.js" />
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/client/js/utils/Header.js" />
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/client/js/utils/App.js" />
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/client/js/components/MovieListView.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/client/js/components/MovieContainerView.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="55" column="14" lean-forward="false" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/client/js/components/HeaderView.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/config/initializers/webpack.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/bin/webpack">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/bin/webpack-dev-server">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/client/webpack.config.client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/open-movie-finder/config/webpacker.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="600">
+          <caret line="40" column="3" lean-forward="false" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/client/js/constants/AppConstants.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/assets/stylesheets/application.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/assets/stylesheets/app.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/assets/stylesheets/pages.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/assets/stylesheets/breakpoints.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/client/js/app.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#228#253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/client/js/vendors/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/assets/stylesheets/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/client/js/components/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/client/js/components/Movie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/client/js/components/MovieResults.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/client/js/stores/AppStore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/client/js/dispatcher/AppDispatcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#34#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/client/js/actions/AppActions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/client/js/components/SearchForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <marker date="1531894209420" expanded="true" signature="527:970" ph="..." />
+            <marker date="1531894209420" expanded="true" signature="643:951" ph="..." />
+            <marker date="1531894209420" expanded="true" signature="692:838" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-movie-finder/app/client/js/utils/AppApi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>

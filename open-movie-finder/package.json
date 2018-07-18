@@ -9,6 +9,14 @@
     "react-dom": "^16.4.1"
   },
   "devDependencies": {
-    "webpack-dev-server": "2.11.2"
+    "webpack-dev-server": "2.11.2",
+    "resize-observer-polyfill": "^1.5.0",
+    "browserify": "*",
+    "flux": "*",
+    "gulp": "*",
+    "reactify": "*",
+    "vinyl-source-stream": "*",
+    "object-assign": "*",
+    "jquery": "*"
   }
 }

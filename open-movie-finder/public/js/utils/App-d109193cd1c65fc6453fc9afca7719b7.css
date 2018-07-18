@@ -1,0 +1,76 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  -webkit-animation: App-logo-spin infinite 20s linear;
+          animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: steelblue;
+  height: 70px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+/* new css for movie component */
+
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.movies {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.App-header h2 {
+  margin: 0;
+}
+
+.add-movies {
+  text-align: center;
+}
+
+.add-movies button {
+  font-size: 16px;
+  padding: 8px;
+  margin: 0 10px 30px 10px;
+}
+
+.movie {
+  padding: 5px 25px 10px 25px;
+  max-width: 25%;
+}
+
+/* movie form styles */
+
+.movie-form {
+  width: 250px;
+  margin: 0 auto;
+}
+
+.movie-form input, .movie-form textarea {
+  width: 250px;
+  font-size:14px;
+  padding: 5px;
+  margin: 5px;
+}
+
+.movie-form button {
+  font-size: 16px;
+  padding: 4px;
+  margin: 10px 10px 30px 10px;
+}
+
+/*# sourceMappingURL=App-d109193cd1c65fc6453fc9afca7719b7.css.map*/
